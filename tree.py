@@ -1,5 +1,5 @@
 #---------------------------------------------#
-#-------| Written By: Sibt ul Hussain |-------#
+#-------| Written By: Syed Zain Raza |-------#
 #---------------------------------------------#
 
 # A good heuristic is to choose sqrt(nfeatures) to consider for each node...
